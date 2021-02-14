@@ -1,0 +1,364 @@
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (min-width:320px) and (max-width: 575.98px) {
+/********Header part responsive start********/	
+.icon
+{
+display:none;
+}
+.heading p
+{
+text-align:center;
+padding-bottom:10px;
+font-size:16px;
+}
+/********Header part responsive ends********/
+/********Navbar part responsive start********/
+.navbar-brand img
+{
+padding-top:10px;
+}
+.navbar-nav
+{
+margin-top:15px;
+}
+.navbar-nav .nav-item .nav-link
+{
+text-align:center;
+background-color:#f1f1f1f1;
+border-bottom:1px solid #000;
+}
+.navbar-nav .nav-item .nav-link.active
+{
+border-bottom:none;
+}
+/********Navbar part responsive ends********/
+/********Banner part responsive start********/
+.banner_content
+{
+text-align:center;
+}
+.banner_content h1
+{
+font-size:36px;
+padding-top:5px;
+}
+.banner_content p
+{
+text-align:justify;
+padding:15px 5px;
+margin-bottom:20px;
+}
+/********Banner part responsive Ends********/
+/********About part responsive Start********/
+.sm_hide
+{
+display:none;
+}
+.about_content p
+{
+padding:0px 10px;
+}
+/********About part responsive Ends********/
+/********Our service part responsive Start********/
+/***Nothing has changed in the banner part.***/
+
+/********Our service part responsive Ends********/
+/********Portfolio responsive part Start********/
+.big_img
+{
+margin-bottom:20px;
+}
+/********Portfolio responsive part Ends********/
+/********Our Team responsive part Start********/
+.name_title p
+{
+margin-bottom:30px;
+}
+/********Our Team responsive part Ends********/
+/********Testamonial responsive part Start********/
+.piramid
+{
+left:43%;
+top:-15px;
+}
+.round_img
+{
+margin-top: 40px;
+}
+/********Testamonial responsive part Ends********/
+/********Fotter responsive part Start********/
+.fotter_logo
+{
+text-align:center;
+}
+.f_content
+{
+text-align:center;
+background:;
+}
+.f_content p
+{
+text-align:center;
+padding:0 10px;
+}
+.contact_title
+{
+text-align:center;
+}
+.contact_title h4
+{
+text-align:center;
+}
+
+.contact_icon
+{
+margin:0 30px;
+}
+.number
+{
+float:left;
+padding:0 20px;
+}
+.Importent-title h4
+{
+text-align:center;
+}
+.sm_menu
+{
+padding-left: 84px;
+background:;
+}
+.Flicker_photos h4
+{
+text-align:center;
+}
+
+/********Fotter responsive part Ends********/
+/******** Extra small responsive part Ends********/
+}
+
+/*// Small devices (landscape phones, less than 768px)**/
+@media (min-width:576px) and (max-width: 767.98px) { 
+
+/********Header responsive part Start********/
+.header
+{
+background:;
+}
+.heading p
+{
+}
+.icon ul li
+{
+padding-top:10px;
+padding-right:10px;
+padding-left:10px;
+padding-bottom:0;
+}
+/********Header responsive part Ends********/
+/********Navbar responsive part Start********/
+.navbar-brand img
+{
+padding-top:10px;
+}
+.navbar-nav
+{
+margin-top:15px;
+}
+.navbar-nav .nav-item .nav-link
+{
+text-align:center;
+background-color:#5bc5f457;
+color:#fff;
+border-bottom:1px solid #000;
+}
+.navbar-nav .nav-item .nav-link:hover
+{
+color:#333333;
+}
+.navbar-nav .nav-item .nav-link.active
+{
+border-bottom:none;
+}
+/********Navbar responsive part Ends********/
+/********Banner responsive part Start********/
+.banner_content
+{
+text-align:center;
+}
+.banner_content p
+{
+text-align:justify;
+padding:15px 5px;
+margin-bottom:20px;
+}
+/********Banner responsive part Ends********/
+/********About responsive part Start********/
+.sm_hide
+{
+display:none;
+}
+.about_content p
+{
+padding-top:5px;
+}
+/********About responsive part Ends********/
+/********Our service responsive part Start********/
+.ser-icon-main
+{
+left:34.5%;
+}
+.sm-editing
+{
+left: 42.5%;
+}
+/********Our service responsive part Ends********/
+/********Portfolio responsive part Start********/
+.big_img
+{
+margin-bottom:20px;
+}
+/********Portfolio responsive part Ends********/
+/********Team responsive part Start********/
+.name_title p
+{
+margin-bottom:30px;
+}
+
+/********Team responsive part Ends********/
+/********Testimonial responsive part Start********/
+.piramid
+{
+left:42%;
+}
+/********Testimonial responsive part Ends********/
+/********Fotter responsive part Start********/
+.fotter_logo
+{
+margin-top:10px;
+text-align:center;
+}
+.f_content p
+{
+text-align:center;
+}
+.contact_title h4
+{
+text-align:center;
+}
+.contact_icon
+{
+margin-left:100px;
+}
+.contact_icon ul
+{
+background:;
+}
+.contact_icon ul li a
+{
+margin-left:80px;
+}
+.Importent-title h4
+{
+text-align:center;
+}
+.Importent-menu
+{
+margin-left:100px;
+}
+.Flicker_photos h4
+{
+text-align:center;
+}
+/********Fotter responsive part Ends********/
+/****Small device work done***/
+}
+
+/*// Medium devices (tablets, less than 992px)*/
+@media (min-width:768px) and (max-width: 991.98px) {
+/********Header responsive part Start*******/
+.heading p
+{
+margin-top:4px;
+}
+/********Header responsive part Ends*******/
+/********Navbar responsive part Start*******/
+.navbar-brand img
+{
+padding:15px 0;
+}
+.navbar-nav .nav-item .nav-link
+{
+text-align:center;
+background-color:#f1f1f1f1;
+border-bottom:1px solid #000;
+}
+.navbar-nav .nav-item .nav-link.active
+{
+border-bottom:none;
+}
+/********Navbar responsive part Ends*******/
+/********Banner responsive part Start*******/
+/********Nothing has changed in the banner part.***/
+/********Banner responsive part Ends*******/
+/********About responsive part Start*******/
+.about_content p
+{
+margin-top:-50px;
+}
+/********About responsive part Start*******/
+/********Service responsive part Start*******/
+.ser-icon-main
+{
+left: 32%;
+}
+/********Service responsive part Ends*******/
+/********NOTE responsive part*******/
+/********From Portfolio part to Testimonial part nothing has changed.*****/
+/********Fotter responsive part Start*******/
+.contact_title
+{
+background:;
+margin-right:;
+}
+.f_content p
+{
+font-size:11px;
+}
+.contact_icon ul li 
+{
+background:;
+margin-left: -27px;
+}
+.number p
+{
+font-family: 'Open Sans', sans-serif;
+font-weight:400;
+margin-left:-20px;
+font-size:11px;
+}
+.Importent-title h4
+{
+width:120px;
+}
+.Importent-menu
+{
+font-size:11px;
+margin-left:6px;
+}
+/********Fotter responsive part Ends*******/
+/********Medium device responsive part Done*******/
+}
+
+/* // Large devices (desktops, less than 1200px)*/
+@media  (min-width:992px) and (max-width: 1199.98px) { 
+/*******Nothing has changed in this media wuiery****/
+ }
+/* /// X-Large devices (large desktops, less than 1400px)*/
+@media (min-width:1200px) and (max-width: 1399.98px) {  
+/*******Nothing has changed in this media wuiery****/
+}
+
+/* // XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width
+*/
